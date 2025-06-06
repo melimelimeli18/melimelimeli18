@@ -9,4 +9,5 @@ I’m a second-semester undergraduate student majoring in **Informatics Engineer
 
 ## How to Reach Me 👋
 
-[linkedin](https://www.linkedin.com/in/melisa-olivia-06a6b9301/)|[stackoverflow](https://stackoverflow.com/users/20562783/melisa-olivia)|[twitter](https://twitter.com/melimelimeli18)
+[[Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
+]}(https://www.linkedin.com/in/melisa-olivia-06a6b9301/) | [Stackoverflow](https://stackoverflow.com/users/20562783/melisa-olivia)|[X](https://twitter.com/melimelimeli18)
