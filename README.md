@@ -2,7 +2,7 @@
 
 I’m a second-semester undergraduate student majoring in **Informatics Engineering**. In my first year, I have a passion for exploring various thing inside of Tech👩‍💻 and translating problems into tech-based solutions.
 - Working and collaborating with others to build products like app, and website in a [startup](https://www.linkedin.com/company/tribez-id/).
-- Participated in 5+ competitions, including Game Development, Hackathons, and Android Programming. Mostly taking have a role of the 'hipster' or visual designer."
+- Participated in 5+ competitions, including Game Development, Hackathons, and Android Programming. Mostly taking have a role of the 'hipster' or *visual designer*.
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,tailwind,svelte,nodejs,laravel,mysql,mongodb,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
