@@ -6,7 +6,8 @@ I’m a second-semester undergraduate student majoring in **Informatics Engineer
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,tailwind,svelte,nodejs,laravel,mysql,mongodb,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melimelimeli18&hide=css,scss,html&theme=tokyonight)
 
 ## How to Reach Me 👋
 
