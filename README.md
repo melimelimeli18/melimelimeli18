@@ -63,13 +63,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Xnaizer" target="_self">
+  <a href="https://github.com/melimelimeli18" target="_self">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melimelimeli18&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" 
       width="34%"
     />
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Xnaizer&theme=tokyo-night&bg_color=0d1117&title_color=70d6ff&color=70d6ff&line=fcf300&point=ffffff&area=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=melimelimeli18&theme=tokyo-night&bg_color=0d1117&title_color=70d6ff&color=70d6ff&line=fcf300&point=ffffff&area=true" 
       width="62%"
       alt="GitHub Activity Graph"
     />
@@ -90,13 +90,11 @@
 </p>
 <br>
 
-# 📫 How to Reach Me
+# 📫 How to Reach Me~
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/melisa-olivia-06a6b9301/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-%23F58025?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/20562783/melisa-olivia)
 [![X](https://img.shields.io/badge/-X-%23000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/melimelimeli18)
-
-<br>
 
 ### Credit
 
