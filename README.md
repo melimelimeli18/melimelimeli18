@@ -95,3 +95,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/melisa-olivia-06a6b9301/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-%23F58025?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/20562783/melisa-olivia)
 [![X](https://img.shields.io/badge/-X-%23000000?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/melimelimeli18)
+
+<br>
+
+### Credit
+
+> Banner Illustration is Made by Doran in X [Link](https://x.com/ddd1doran/status/1608709827668373504?s=20)
